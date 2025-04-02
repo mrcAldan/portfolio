@@ -1,4 +1,4 @@
-Marco Antonio Mirón Aldán
+# Marco Antonio Mirón Aldán
 ## QA Tester | Ingeniero en Sistemas Computacionales
 
 ### CONTACTO
@@ -53,4 +53,4 @@ Autogestión, versatilidad, proactividad, cooperación, comunicación.
 
 ### 📁 **IDIOMAS**
 - Español: Nativo
-- Inglés: Intermedio (B1) (Amplio dominio al leer, escribir y escuhar, sigo mejorando mis habilidades al hablarlo.)
+- Inglés: Intermedio (B1) Amplio dominio al leer, escribir y escuchar. Actualmente estoy perfeccionando mis habilidades al hablarlo.
