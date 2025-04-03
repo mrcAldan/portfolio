@@ -1,10 +1,6 @@
 # Marco Antonio Mirón Aldán
 ## QA Tester | Ingeniero en Sistemas Computacionales
 
-### CONTACTO
-- 📧 Email: mrc.aldan@gmail.com
-- 📱 Teléfono: 297 203 0414
-
 ---
 
 ### 👨‍💻 **SOBRE MÍ**
